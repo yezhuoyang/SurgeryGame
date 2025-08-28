@@ -10,3 +10,12 @@ cd lattice-surgery
 npm install
 npm run dev
 ```
+
+
+
+# TODO List
+
+- [ ] Control arbitrary rectangle patch
+- [ ] Rotation of boundary
+- [ ] Extend the patch type that support arbitrary boundary
+- [ ] Control arbitrary boundary movement
